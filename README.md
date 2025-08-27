@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Sidik  
 
-<!--
-**XSidik/XSidik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer | .NET / Go | Distributed Systems, FFmpeg, and Scalable APIs | Remote Work**  
 
-Here are some ideas to get you started:
+🔹 Passionate about building **reliable, high-performance backend systems**.  
+🔹 Experienced in **Go (GoFiber), .NET Core, PostgreSQL, MinIO, NATS, FFmpeg, Docker**.  
+🔹 Focused on **distributed systems, real-time video streaming**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+---
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** C# (.NET), Go
+- **Backend:** GoFiber, ASP.NET Core, REST APIs  
+- **Streaming & Messaging:** FFmpeg, NATS  
+- **Databases & Storage:** PostgreSQL, MinIO  
+- **DevOps & Tools:** Docker, Git, etcd  
+
+---
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nur-sidik-13420b165)  
