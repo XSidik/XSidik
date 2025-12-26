@@ -14,10 +14,10 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** C# (.NET), Go
-- **Backend:** GoFiber, ASP.NET Core, REST APIs  
+- **Languages:** C# (.NET), Go, Python, PHP
+- **Backend:** GoFiber, ASP.NET Core, Laravel, FastAPI
 - **Streaming & Messaging:** FFmpeg, NATS  
-- **Databases & Storage:** PostgreSQL, MinIO  
+- **Databases & Storage:** "PostgreSQL, SQL, MySQL, SQLite", MinIO  
 - **DevOps & Tools:** Docker, Git, etcd  
 
 ---
