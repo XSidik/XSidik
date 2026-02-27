@@ -14,7 +14,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:**PHP (Laravel), C# (.NET), Go, Python
+- **Languages:** PHP (Laravel), C# (.NET), Go, Python
 - **Backend:** Laravel, GoFiber, ASP.NET Core, FastAPI
 - **Streaming & Messaging:** FFmpeg, NATS  
 - **Databases & Storage:** "PostgreSQL, SQL, MySQL, SQLite", MinIO  
